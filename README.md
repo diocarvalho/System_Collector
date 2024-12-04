@@ -1,4 +1,4 @@
-DCX-System-Collector
+#DCX-System-Collector
 This program is a command-line interface (CLI) tool that collects and displays various information about the machine and operating system it is running on. The information is retrieved based on the command-line arguments provided when the program is executed.
 
 How to Use
@@ -6,12 +6,14 @@ To run the program, provide one of the supported arguments as a command-line par
 
 Example Usage
 sh
-Copiar código
+```
 ./system-collector get_hostname
+```
+
 Supported Commands
-Command	Description
+
 get_hostname	Returns the hostname of the machine.
-get_os_short	Returns a brief description of the operating system.
+get_os_short	Returns a brief description of the operating system.  
 get_os	Returns detailed information about the operating system.
 get_cpu_short	Returns a brief description of the CPU.
 get_cpu	Returns detailed information about the CPU.
