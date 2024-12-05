@@ -33,4 +33,4 @@ get_hw_short          - Returns a summary of motherboard, CPU, and RAM informati
 get_installed_programs - Returns a list of installed programs.
 get_hw                - Returns a detailed summary of hardware and network information.
 
-foir now, just work on windows
+for now, just work on windows
