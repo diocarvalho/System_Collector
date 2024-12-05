@@ -32,3 +32,5 @@ get_mac_2             - Returns the MAC address of the second network interface.
 get_hw_short          - Returns a summary of motherboard, CPU, and RAM information.
 get_installed_programs - Returns a list of installed programs.
 get_hw                - Returns a detailed summary of hardware and network information.
+
+foir now, just work on windows
